@@ -37,10 +37,7 @@
   <img alt="Invision" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
 </p>
 
-## 📈 My GitHub Stats:
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=heba-elsafty&show_icons=true&theme=vue" alt="heba-elsafty" />
-</p>
+
 
 ## 📫 How to reach me:
 
